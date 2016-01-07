@@ -10,7 +10,7 @@ from setuptools import setup, find_packages
 
 install_requires = [
     'django-auth-ldap>=1.2.5',
-    'sentry>=8.0.0',
+    'sentry>=8.0.0rc'
 ]
 
 setup(
